@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Ref:rain",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-18T21:04:54.264415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_Ref_rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_Ref_rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ref-Rain feat.IA",
+      "artist": "Selep",
+      "has_synced": false,
+      "path": "select/03_Ref-Rain_feat.IA_Selep.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ref-Rain",
+      "artist": "seleP feat. IA",
+      "has_synced": false,
+      "path": "select/04_Ref-Rain_seleP_feat._IA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_Ref_rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ref:rain (TV size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_Ref_rain_(TV_size)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ref:rain - After the Rain",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/07_Ref_rain_-_After_the_Rain_Shayne_Orok.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_Ref_rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ref:rain -3 nuits version-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_Ref_rain_-3_nuits_version-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_Ref_rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_Ref_rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ref:rain (TV size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_Ref_rain_(TV_size)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ref:rain",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Ref_rain_Aimer.txt"
+    }
+  ]
+}
